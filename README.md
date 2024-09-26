@@ -14,7 +14,9 @@ Now, I am becoming a professional in the area of ​​data science so that I ca
 📫 **How to reach me :**
   
 <div style="display: inline-block">
-  <a href="www.linkedin.com/in/renato-rigolino-c-chaves-18b684100" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=www.linkedin.com%2Fin%2Frenato-rigolino-c-chaves-18b684100" target="_blank"></a> 
-  <a href = "mailto:renato_chaves50@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&link=renato_chaves50%40hotmail.com" target="_blank"></a>
+
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&link=www.linkedin.com%2Fin%2Frenato-rigolino-c-chaves-18b684100" target="_blank"></a> www.linkedin.com/in/renato-rigolino-c-chaves-18b684100
+  
+  <a href = "mailto:renato_chaves50@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&link=renato_chaves50%40hotmail.com" target="_blank"></a> renato_chaves50@hotmail.com
 </div>
 
